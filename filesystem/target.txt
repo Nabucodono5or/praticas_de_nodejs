@@ -1,2 +1,4 @@
-loads the script, running all the way through to the line, which
-loremipsum3
+Let’s enhance our file-watching example program even further by having it
+spawn a child process in response to a change. To do this, we’ll bring in
+Node.js’s child-process module and dive into some Node.js patterns and classes.
+You’ll also learn how to use streams to pipe data around.
